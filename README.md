@@ -1,6 +1,8 @@
 # Simple Calculator App
 This is a simple calculator Android application developed using Android Studio and Java. The app allows users to perform basic mathematical operations like addition, subtraction, multiplication, and division.
 
+<img src="./assets/image2.png"></img>      
+<img src="./assets/image1.png"></img>
 
 ## Features
 
